@@ -38,4 +38,4 @@ This repository is a clone of the popular game [Wordle](https://www.nytimes.com/
    ```bash
    npm run dev
 
-4. **Open your browser at http://localhost:5173 to play the game
+4. Open your browser at http://localhost:5173 to play the game
